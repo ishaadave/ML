@@ -1,0 +1,799 @@
+exploratory_row_index,predicted_surge_tier,predicted_CEPI_Score,pickup_grid_zone,dropoff_grid_zone,cluster,corridor_status
+17,0,17.82957362,43_31,34_33,-1,Corridor not evaluated
+42,0,6.138571809,35_33,34_35,-1,Corridor not evaluated
+75,2,5.859707321,31_28,30_29,2,Clustered - not flagged
+122,0,5.705424856,35_32,32_30,4,Clustered - not flagged
+124,2,3.256716455,30_29,31_30,2,Clustered - not flagged
+130,2,3.98565233,29_27,28_26,1,Clustered - not flagged
+135,2,4.911939371,31_31,32_33,2,Clustered - not flagged
+189,2,6.459818029,30_28,31_28,2,Clustered - not flagged
+190,2,4.135765975,31_28,32_30,2,Candidate ghost corridor
+255,2,3.721249085,33_31,34_33,2,Clustered - not flagged
+292,2,4.258284975,32_31,32_29,0,Clustered - not flagged
+294,2,6.477461665,28_26,47_42,-1,Corridor not evaluated
+334,1,16.08641592,42_32,32_30,4,Candidate ghost corridor
+335,2,4.728491714,33_31,35_33,0,Clustered - not flagged
+367,0,10.91757963,35_34,34_31,-1,Corridor not evaluated
+384,2,5.623360286,31_27,31_31,0,Clustered - not flagged
+391,0,5.655162736,31_28,35_26,-1,Corridor not evaluated
+420,2,3.645725262,31_31,29_27,0,Clustered - not flagged
+431,0,5.862475293,30_27,41_30,-1,Corridor not evaluated
+436,0,4.53365193,34_27,32_29,-1,Corridor not evaluated
+449,2,4.151491202,33_31,33_30,2,Clustered - not flagged
+461,2,5.708809339,31_32,32_34,1,Clustered - not flagged
+465,2,5.693272567,31_28,30_28,2,Clustered - not flagged
+478,2,4.720225837,30_28,31_27,2,Clustered - not flagged
+487,2,4.413440387,30_29,31_31,2,Clustered - not flagged
+495,0,4.855875234,30_31,31_30,4,Clustered - not flagged
+699,2,9.059287555,30_31,30_30,1,Clustered - not flagged
+723,2,4.479009889,31_30,32_31,2,Clustered - not flagged
+814,2,4.143900865,30_30,29_29,2,Clustered - not flagged
+873,0,4.686874048,31_27,29_29,0,Clustered - not flagged
+878,2,5.90564247,33_30,34_26,-1,Corridor not evaluated
+934,2,4.322344107,32_32,40_29,-1,Corridor not evaluated
+985,0,7.868181431,29_27,33_23,-1,Corridor not evaluated
+1019,0,5.707488228,31_32,33_31,1,Clustered - not flagged
+1024,2,4.66214248,31_29,30_30,2,Clustered - not flagged
+1033,0,5.585033232,31_27,30_25,-1,Corridor not evaluated
+1089,2,6.247316304,33_31,42_32,0,Candidate ghost corridor
+1126,2,5.411519695,32_30,32_31,2,Clustered - not flagged
+1142,2,6.302007781,31_30,32_29,2,Clustered - not flagged
+1148,0,5.446982908,32_31,29_28,0,Clustered - not flagged
+1159,2,6.231149042,32_31,31_27,0,Clustered - not flagged
+1176,2,5.146433805,29_29,42_32,-1,Corridor not evaluated
+1183,0,5.284961048,32_31,31_32,1,Clustered - not flagged
+1193,2,5.024387892,34_32,31_31,2,Clustered - not flagged
+1293,2,6.719108815,30_29,31_26,0,Clustered - not flagged
+1359,0,7.049040504,30_28,30_30,0,Clustered - not flagged
+1386,0,4.04987785,31_30,31_30,2,Clustered - not flagged
+1398,0,9.62506023,32_29,30_29,2,Clustered - not flagged
+1434,0,4.480969188,31_29,31_30,2,Clustered - not flagged
+1511,2,5.565415064,29_30,30_29,1,Clustered - not flagged
+1549,0,5.830271945,32_29,31_28,2,Clustered - not flagged
+1561,2,3.586958152,31_29,33_31,2,Clustered - not flagged
+1615,1,9.493960081,32_34,32_33,1,Clustered - not flagged
+1670,2,8.305759368,32_30,31_28,2,Clustered - not flagged
+1678,2,9.411624675,34_32,31_29,4,Clustered - not flagged
+1736,0,10.96774751,29_25,41_32,-1,Corridor not evaluated
+1740,0,5.735228976,28_26,29_31,-1,Corridor not evaluated
+1742,2,5.621721462,32_30,31_28,2,Clustered - not flagged
+1754,2,3.431485995,33_32,33_31,1,Clustered - not flagged
+1772,2,4.864362886,33_31,34_32,2,Clustered - not flagged
+1781,2,9.386364079,33_31,45_27,-1,Corridor not evaluated
+1799,2,10.44042961,33_35,32_32,-1,Corridor not evaluated
+1820,0,5.209149643,30_27,31_27,2,Clustered - not flagged
+1892,2,7.086622641,32_29,29_29,0,Clustered - not flagged
+1920,0,7.164058512,30_30,31_32,0,Clustered - not flagged
+2002,1,6.953939515,35_32,32_30,4,Clustered - not flagged
+2020,1,6.619656875,34_32,51_19,-1,Corridor not evaluated
+2026,0,6.724915649,28_25,29_31,-1,Corridor not evaluated
+2060,1,8.897455596,32_33,33_32,1,Clustered - not flagged
+2104,2,3.490330714,31_29,32_30,2,Candidate ghost corridor
+2125,0,14.74954902,29_27,33_25,-1,Corridor not evaluated
+2138,1,4.749912522,32_33,31_33,1,Clustered - not flagged
+2145,2,4.145254173,29_29,32_30,4,Clustered - not flagged
+2189,2,3.863143777,34_32,34_31,2,Clustered - not flagged
+2193,2,2.874830216,31_28,31_27,2,Clustered - not flagged
+2196,2,6.030067296,29_27,31_31,4,Clustered - not flagged
+2217,2,8.37535859,30_29,31_29,2,Clustered - not flagged
+2234,2,4.992465204,31_31,34_33,0,Clustered - not flagged
+2237,2,5.818484312,31_31,29_28,0,Clustered - not flagged
+2262,1,4.949787291,32_30,31_29,2,Clustered - not flagged
+2274,2,3.83391273,31_28,31_29,2,Clustered - not flagged
+2276,0,6.271058156,34_31,35_33,1,Clustered - not flagged
+2312,1,27.06696106,51_19,29_30,-1,Corridor not evaluated
+2315,2,9.016211839,31_29,32_28,0,Clustered - not flagged
+2326,2,6.385537854,31_28,28_25,-1,Corridor not evaluated
+2375,2,5.489385814,32_31,34_31,1,Clustered - not flagged
+2411,0,5.918862412,32_31,32_32,1,Clustered - not flagged
+2455,2,6.012785408,33_30,29_25,4,Clustered - not flagged
+2464,2,10.34884399,34_32,33_30,2,Clustered - not flagged
+2486,2,10.15599257,32_33,30_31,1,Clustered - not flagged
+2511,2,5.693825944,33_30,34_32,2,Clustered - not flagged
+2544,2,3.961255155,32_31,32_30,2,Clustered - not flagged
+2561,2,5.363924454,31_28,30_28,2,Clustered - not flagged
+2588,1,12.870266,43_32,31_27,-1,Corridor not evaluated
+2613,2,7.931381918,32_34,32_33,1,Clustered - not flagged
+2624,0,7.329606619,29_25,29_26,-1,Corridor not evaluated
+2646,2,5.360466002,32_30,30_30,2,Clustered - not flagged
+2670,2,4.254584797,32_29,31_27,0,Clustered - not flagged
+2677,2,5.374250454,31_29,32_29,2,Clustered - not flagged
+2689,2,3.875291314,31_31,31_29,2,Clustered - not flagged
+2704,2,8.090980207,32_29,29_26,0,Clustered - not flagged
+2744,2,6.588673578,33_30,33_30,1,Clustered - not flagged
+2771,0,6.637662925,31_31,29_28,0,Clustered - not flagged
+2773,2,4.10638156,31_30,34_32,0,Clustered - not flagged
+2782,2,7.261028361,30_31,31_29,4,Clustered - not flagged
+2784,2,8.710357115,34_31,32_30,4,Candidate ghost corridor
+2813,2,11.07970849,30_28,34_23,-1,Corridor not evaluated
+2816,2,4.547276462,29_27,30_27,1,Clustered - not flagged
+2822,2,5.860659198,29_28,34_31,0,Clustered - not flagged
+2830,1,5.1736999,30_28,30_27,2,Clustered - not flagged
+2837,1,4.09494961,32_34,32_35,-1,Corridor not evaluated
+2865,1,8.444703216,34_35,33_35,1,Clustered - not flagged
+2929,2,8.734546941,31_30,46_49,-1,Corridor not evaluated
+2935,0,6.579094118,28_26,30_27,1,Clustered - not flagged
+2937,2,5.831379648,32_31,31_29,2,Clustered - not flagged
+3009,2,5.235502836,33_35,32_34,1,Clustered - not flagged
+3022,2,3.34955101,34_32,32_33,2,Clustered - not flagged
+3059,2,4.909687645,33_35,32_34,1,Clustered - not flagged
+3071,2,4.745210576,31_31,31_30,2,Clustered - not flagged
+3081,2,4.22518793,32_32,29_29,-1,Corridor not evaluated
+3128,0,7.150769899,34_31,34_32,2,Clustered - not flagged
+3141,2,3.370900321,29_28,29_30,0,Clustered - not flagged
+3150,2,5.499608063,34_33,32_31,4,Clustered - not flagged
+3155,2,4.793550904,33_32,33_33,1,Clustered - not flagged
+3197,2,5.193269591,31_30,33_30,0,Clustered - not flagged
+3264,2,9.225191573,34_26,31_26,-1,Corridor not evaluated
+3272,0,27.28018405,51_19,44_28,-1,Corridor not evaluated
+3293,2,3.571221963,31_28,30_28,2,Clustered - not flagged
+3296,1,5.382174158,34_32,34_32,2,Clustered - not flagged
+3316,2,4.609218902,32_29,31_28,2,Clustered - not flagged
+3381,1,8.692145178,35_33,34_32,1,Clustered - not flagged
+3396,2,3.687319208,31_28,31_29,2,Clustered - not flagged
+3400,2,4.846936274,34_34,33_31,-1,Corridor not evaluated
+3438,0,4.994662903,35_33,31_29,-1,Corridor not evaluated
+3461,2,4.509238621,31_28,29_29,2,Clustered - not flagged
+3465,2,8.776293926,31_28,29_27,0,Clustered - not flagged
+3518,0,4.974064355,30_28,31_32,-1,Corridor not evaluated
+3562,2,5.418588285,34_32,33_32,0,Clustered - not flagged
+3568,2,4.325274064,30_30,31_29,2,Clustered - not flagged
+3569,2,4.110639449,30_27,29_29,0,Clustered - not flagged
+3579,2,9.782078714,32_31,33_32,1,Clustered - not flagged
+3593,2,6.392289183,34_32,32_29,2,Clustered - not flagged
+3599,2,6.107261341,29_29,31_29,2,Clustered - not flagged
+3600,2,6.460866286,33_32,34_31,1,Clustered - not flagged
+3655,2,5.366420444,34_32,33_33,1,Candidate ghost corridor
+3671,2,6.081345025,34_31,32_30,4,Candidate ghost corridor
+3703,2,3.398348953,31_29,34_32,0,Clustered - not flagged
+3711,2,5.339292388,32_29,32_30,2,Candidate ghost corridor
+3729,2,6.750628145,28_28,31_31,-1,Corridor not evaluated
+3744,2,4.727544824,31_32,32_34,1,Clustered - not flagged
+3777,1,8.81704891,29_25,31_27,1,Clustered - not flagged
+3781,2,8.59465529,33_34,32_31,4,Clustered - not flagged
+3938,2,4.655382493,31_30,32_29,2,Clustered - not flagged
+3939,2,5.404477254,32_31,31_32,1,Clustered - not flagged
+3983,2,4.397744308,32_29,35_33,-1,Corridor not evaluated
+4007,2,4.622060659,29_28,29_29,2,Clustered - not flagged
+4063,2,7.086464346,30_27,32_27,1,Clustered - not flagged
+4076,1,5.075539787,31_27,28_25,0,Clustered - not flagged
+4105,1,29.29297267,51_19,30_24,-1,Corridor not evaluated
+4119,2,6.855795759,32_28,31_24,-1,Corridor not evaluated
+4147,2,5.375007437,35_32,31_32,4,Clustered - not flagged
+4167,2,5.621228727,30_29,29_27,0,Clustered - not flagged
+4214,2,5.180247388,30_29,31_29,2,Clustered - not flagged
+4248,2,6.17439932,32_30,32_29,2,Clustered - not flagged
+4265,0,5.657552533,31_29,30_27,0,Clustered - not flagged
+4269,0,7.79432457,30_27,32_30,4,Clustered - not flagged
+4294,2,3.651276753,31_30,33_32,-1,Corridor not evaluated
+4374,0,6.327854325,41_29,35_32,-1,Corridor not evaluated
+4437,0,8.049395792,30_28,34_22,-1,Corridor not evaluated
+4456,2,4.026083698,31_31,51_19,-1,Corridor not evaluated
+4482,2,5.925740675,32_30,31_28,2,Clustered - not flagged
+4484,2,4.867935115,30_27,34_31,0,Clustered - not flagged
+4549,2,6.480689099,31_27,31_27,2,Clustered - not flagged
+4556,2,6.626916793,31_27,30_27,2,Clustered - not flagged
+4561,2,5.452607084,30_27,35_26,-1,Corridor not evaluated
+4573,0,7.790545915,28_25,31_33,-1,Corridor not evaluated
+4596,2,3.79812785,30_29,31_30,2,Clustered - not flagged
+4601,2,4.326708858,30_30,31_31,2,Clustered - not flagged
+4617,0,6.440160478,30_28,31_28,2,Clustered - not flagged
+4621,0,6.071604711,30_30,30_30,2,Clustered - not flagged
+4632,0,8.330490672,32_29,31_29,2,Clustered - not flagged
+4690,1,9.874274563,34_31,31_30,4,Clustered - not flagged
+4706,0,17.87227598,42_32,36_40,-1,Corridor not evaluated
+4738,2,6.084966815,31_32,31_31,2,Clustered - not flagged
+4741,0,7.514383725,30_29,29_29,2,Clustered - not flagged
+4745,0,7.922259791,32_30,31_29,2,Clustered - not flagged
+4755,2,7.066928342,31_27,29_28,2,Clustered - not flagged
+4860,1,3.68894336,30_29,28_26,0,Clustered - not flagged
+4887,2,4.262625114,32_30,31_30,2,Clustered - not flagged
+4891,0,4.123086362,32_27,31_30,-1,Corridor not evaluated
+4908,2,3.046611052,33_31,33_32,2,Clustered - not flagged
+4940,0,6.734869003,30_27,32_22,-1,Corridor not evaluated
+4943,0,8.794703195,31_28,31_29,2,Clustered - not flagged
+4945,2,4.792023714,30_27,29_28,2,Clustered - not flagged
+4957,2,4.138885613,29_28,30_30,2,Clustered - not flagged
+4993,2,4.591020738,30_27,30_21,-1,Corridor not evaluated
+5046,0,7.439094177,33_23,33_22,-1,Corridor not evaluated
+5145,2,5.877580282,30_26,34_22,-1,Corridor not evaluated
+5179,2,8.760147639,35_34,36_34,-1,Corridor not evaluated
+5251,1,9.664723749,29_27,51_19,-1,Corridor not evaluated
+5283,2,6.251118735,31_30,30_30,2,Clustered - not flagged
+5309,2,6.75816235,31_28,32_30,2,Candidate ghost corridor
+5363,2,6.411144175,30_27,29_30,-1,Corridor not evaluated
+5382,2,7.248746928,33_33,33_33,1,Clustered - not flagged
+5389,2,7.239626081,30_26,30_27,1,Clustered - not flagged
+5419,2,5.104378015,28_26,29_26,1,Clustered - not flagged
+5444,2,9.72626591,34_32,33_31,2,Clustered - not flagged
+5460,2,5.508598848,30_29,31_31,2,Clustered - not flagged
+5470,2,6.908515352,32_30,32_30,2,Clustered - not flagged
+5489,2,7.139483544,30_30,32_29,2,Clustered - not flagged
+5490,2,5.05093157,30_27,28_26,1,Clustered - not flagged
+5496,2,6.16042412,30_28,29_30,-1,Corridor not evaluated
+5524,2,5.668810054,30_29,31_29,2,Clustered - not flagged
+5562,2,5.383661824,29_28,29_29,2,Clustered - not flagged
+5602,2,6.695331446,31_33,32_30,4,Clustered - not flagged
+5670,1,28.89523593,51_19,47_25,-1,Corridor not evaluated
+5700,2,7.210584568,30_26,29_28,1,Clustered - not flagged
+5709,2,10.15078983,34_35,34_34,-1,Corridor not evaluated
+5735,2,7.885598853,29_27,29_29,1,Clustered - not flagged
+5777,2,5.352070965,30_29,32_29,2,Clustered - not flagged
+5821,2,5.953625074,31_31,32_31,2,Clustered - not flagged
+5899,2,7.032831117,32_30,34_33,2,Clustered - not flagged
+5935,2,7.935168596,31_31,31_33,0,Clustered - not flagged
+5951,2,5.897499934,32_33,34_31,4,Clustered - not flagged
+5960,2,7.711690729,29_26,30_27,1,Clustered - not flagged
+5968,2,9.580894885,33_34,33_36,-1,Corridor not evaluated
+6013,2,6.934498885,32_34,29_26,-1,Corridor not evaluated
+6056,2,5.096217495,30_31,31_30,4,Clustered - not flagged
+6069,0,7.699798761,29_26,31_29,4,Clustered - not flagged
+6096,0,6.740464032,34_32,35_32,2,Clustered - not flagged
+6108,2,6.3600478,30_31,35_38,0,Candidate ghost corridor
+6151,1,4.647193467,30_30,29_29,2,Clustered - not flagged
+6155,0,5.101704069,31_31,30_29,2,Clustered - not flagged
+6158,1,4.039288953,32_29,32_29,1,Clustered - not flagged
+6210,0,4.794073312,31_31,32_22,-1,Corridor not evaluated
+6257,0,7.484240711,33_31,34_31,2,Clustered - not flagged
+6336,0,7.746029069,30_26,34_34,-1,Corridor not evaluated
+6338,0,4.634641495,34_33,34_31,1,Clustered - not flagged
+6382,0,4.911315521,31_28,34_25,-1,Corridor not evaluated
+6396,0,6.311653896,31_22,29_28,-1,Corridor not evaluated
+6407,0,7.888391097,31_31,32_33,2,Clustered - not flagged
+6430,2,5.320448343,31_29,34_24,-1,Corridor not evaluated
+6460,2,6.113703694,32_32,34_31,1,Clustered - not flagged
+6466,0,5.553003988,30_30,29_28,2,Clustered - not flagged
+6470,2,6.808398345,30_30,38_15,-1,Corridor not evaluated
+6505,1,5.524462494,30_30,30_31,0,Clustered - not flagged
+6552,2,4.888830432,29_27,31_28,4,Clustered - not flagged
+6554,2,5.396400724,31_29,30_26,0,Clustered - not flagged
+6580,0,4.455713967,30_27,32_34,-1,Corridor not evaluated
+6598,0,8.561042029,31_30,29_27,0,Clustered - not flagged
+6615,2,5.891701236,30_30,30_30,2,Clustered - not flagged
+6633,1,8.661980862,30_31,30_30,1,Clustered - not flagged
+6639,0,8.130228271,32_30,30_30,2,Clustered - not flagged
+6658,1,5.216671894,34_33,33_35,1,Clustered - not flagged
+6688,2,4.140639329,32_30,38_31,-1,Corridor not evaluated
+6818,2,4.609389206,38_31,54_23,-1,Corridor not evaluated
+6819,0,3.557658998,32_29,31_27,0,Clustered - not flagged
+6821,0,6.607542272,38_39,39_37,-1,Corridor not evaluated
+6860,0,6.328577925,32_30,34_32,2,Clustered - not flagged
+6873,0,6.034483838,33_31,33_34,0,Clustered - not flagged
+6909,2,3.410379405,29_28,31_29,2,Clustered - not flagged
+6910,2,5.568761011,32_29,31_28,2,Clustered - not flagged
+6933,2,3.270771081,31_27,31_31,0,Clustered - not flagged
+6946,1,5.628444361,31_31,31_29,2,Clustered - not flagged
+6965,0,7.605734985,30_26,31_27,1,Clustered - not flagged
+6967,2,3.628444387,31_29,30_30,2,Clustered - not flagged
+6995,0,5.125877474,30_30,30_31,0,Clustered - not flagged
+7002,0,4.356269203,30_27,32_29,0,Clustered - not flagged
+7059,0,7.588241033,29_26,28_25,1,Clustered - not flagged
+7068,0,5.638798937,30_29,34_32,0,Clustered - not flagged
+7073,2,6.738433035,30_31,29_29,1,Clustered - not flagged
+7147,0,4.562292183,30_28,32_33,-1,Corridor not evaluated
+7199,0,4.980609777,29_29,31_31,4,Clustered - not flagged
+7218,2,6.391048706,31_31,31_27,0,Clustered - not flagged
+7239,2,5.733713165,31_26,29_27,-1,Corridor not evaluated
+7293,0,7.853339446,32_31,30_27,0,Clustered - not flagged
+7320,2,3.996940615,32_29,32_26,-1,Corridor not evaluated
+7335,2,4.929461097,31_29,31_29,2,Clustered - not flagged
+7347,0,5.245208163,33_31,34_32,2,Clustered - not flagged
+7389,0,6.347201452,34_32,37_31,-1,Corridor not evaluated
+7466,1,4.415108895,32_29,30_30,2,Clustered - not flagged
+7473,2,4.714343546,31_30,32_29,2,Clustered - not flagged
+7478,0,6.032075828,31_31,33_30,2,Clustered - not flagged
+7488,2,6.411994162,30_26,31_31,-1,Corridor not evaluated
+7490,1,5.652187661,33_34,32_33,1,Clustered - not flagged
+7530,1,5.576139717,31_27,31_29,2,Clustered - not flagged
+7549,0,5.741104749,31_27,37_31,-1,Corridor not evaluated
+7550,0,4.720458458,32_29,33_35,-1,Corridor not evaluated
+7592,0,4.898963431,31_27,38_24,-1,Corridor not evaluated
+7639,2,5.892409539,31_31,30_29,2,Clustered - not flagged
+7648,2,10.26588851,32_34,31_28,-1,Corridor not evaluated
+7649,2,4.815834237,31_27,31_27,2,Clustered - not flagged
+7656,0,6.047990132,33_34,32_33,1,Clustered - not flagged
+7670,0,8.715288677,31_27,31_27,2,Clustered - not flagged
+7688,0,6.619306966,36_30,36_29,-1,Corridor not evaluated
+7710,2,3.60279948,31_28,31_27,2,Clustered - not flagged
+7765,0,6.396334208,30_28,13_28,-1,Corridor not evaluated
+7773,1,5.647069842,31_27,30_31,0,Clustered - not flagged
+7798,2,4.711126314,31_30,32_30,2,Candidate ghost corridor
+7901,1,5.986256342,32_31,29_29,0,Clustered - not flagged
+7911,0,10.97328364,29_27,32_29,0,Clustered - not flagged
+7921,0,7.519384348,29_28,29_25,0,Clustered - not flagged
+7929,0,7.238517737,29_28,31_27,2,Clustered - not flagged
+7933,2,5.99549707,30_27,36_22,-1,Corridor not evaluated
+7946,0,9.606192252,29_29,30_30,2,Clustered - not flagged
+7993,2,4.113462944,31_31,38_31,-1,Corridor not evaluated
+8029,2,4.98762934,31_28,32_30,2,Candidate ghost corridor
+8037,1,5.391966692,29_29,33_34,-1,Corridor not evaluated
+8076,2,4.819704526,30_28,31_29,2,Clustered - not flagged
+8092,2,4.206965107,29_28,30_27,2,Clustered - not flagged
+8102,2,8.205005933,31_31,31_30,2,Clustered - not flagged
+8107,2,6.315155341,30_26,34_29,-1,Corridor not evaluated
+8111,2,5.603208232,32_31,33_30,1,Clustered - not flagged
+8118,0,6.014807362,31_31,31_33,0,Clustered - not flagged
+8160,2,3.908227196,30_29,30_27,0,Clustered - not flagged
+8267,0,5.499801829,31_28,30_29,2,Clustered - not flagged
+8319,0,5.769871086,32_31,37_32,-1,Corridor not evaluated
+8353,0,4.943725305,33_30,32_32,-1,Corridor not evaluated
+8389,0,7.793605001,29_29,31_29,2,Clustered - not flagged
+8474,0,7.029508623,31_28,32_30,2,Candidate ghost corridor
+8481,2,3.52970921,31_30,32_30,2,Candidate ghost corridor
+8495,2,8.661335863,31_27,38_24,-1,Corridor not evaluated
+8504,1,7.351876507,31_26,32_33,-1,Corridor not evaluated
+8511,0,7.741453796,31_29,31_30,2,Clustered - not flagged
+8516,2,4.458700922,29_28,31_26,0,Clustered - not flagged
+8570,2,4.422117352,29_28,28_26,1,Clustered - not flagged
+8671,2,5.140333959,31_31,31_27,0,Clustered - not flagged
+8675,0,8.813104075,31_30,34_36,-1,Corridor not evaluated
+8727,0,6.146269926,32_29,33_30,1,Clustered - not flagged
+8749,0,10.50400572,30_28,32_33,-1,Corridor not evaluated
+8763,0,7.8729381,29_30,29_28,1,Clustered - not flagged
+8787,0,6.2384313,31_28,31_28,2,Clustered - not flagged
+8813,1,4.764226818,30_28,31_31,4,Clustered - not flagged
+8835,0,8.774701794,35_34,31_29,-1,Corridor not evaluated
+8844,2,5.807669439,31_29,31_31,2,Clustered - not flagged
+8856,0,7.290295146,30_28,33_32,0,Clustered - not flagged
+8872,2,5.080725678,31_30,30_30,2,Clustered - not flagged
+8874,2,4.446999906,31_30,32_31,2,Clustered - not flagged
+8876,0,5.791326846,31_27,30_28,2,Clustered - not flagged
+8912,2,5.67662324,28_27,29_27,-1,Corridor not evaluated
+8913,0,5.267938558,32_31,29_29,0,Clustered - not flagged
+8980,2,8.021912182,29_30,34_32,-1,Corridor not evaluated
+9000,2,6.909999795,30_28,33_20,-1,Corridor not evaluated
+9024,0,5.244319646,32_30,31_31,2,Clustered - not flagged
+9046,2,5.441628347,29_29,30_28,1,Clustered - not flagged
+9052,2,5.850137813,30_29,29_28,2,Clustered - not flagged
+9069,0,13.98587839,37_40,35_34,-1,Corridor not evaluated
+9104,0,5.878758074,37_31,38_32,-1,Corridor not evaluated
+9140,0,5.690400878,31_27,31_22,-1,Corridor not evaluated
+9163,2,5.48992613,34_32,30_30,0,Clustered - not flagged
+9173,2,4.58629982,36_36,36_34,-1,Corridor not evaluated
+9183,1,9.95902022,40_29,39_29,-1,Corridor not evaluated
+9201,2,7.350114462,31_28,32_24,-1,Corridor not evaluated
+9213,0,7.815258908,31_32,35_38,-1,Corridor not evaluated
+9282,0,33.02712081,51_19,29_28,-1,Corridor not evaluated
+9283,2,4.983341319,31_27,29_26,0,Clustered - not flagged
+9307,2,4.947662292,31_29,35_34,0,Clustered - not flagged
+9318,2,3.534731571,29_28,29_29,2,Clustered - not flagged
+9323,1,5.397508371,31_29,35_32,0,Clustered - not flagged
+9362,0,6.58266313,31_28,33_30,0,Clustered - not flagged
+9363,0,7.94010754,29_30,31_32,-1,Corridor not evaluated
+9373,2,5.613789829,29_27,28_26,1,Clustered - not flagged
+9387,2,6.648063113,31_29,29_28,2,Clustered - not flagged
+9398,0,10.90571175,29_28,30_21,-1,Corridor not evaluated
+9399,0,8.042726526,30_28,29_27,1,Clustered - not flagged
+9421,2,3.803916768,29_29,31_28,0,Clustered - not flagged
+9428,2,4.429081519,30_28,30_27,2,Clustered - not flagged
+9438,0,6.062327773,34_33,31_31,4,Clustered - not flagged
+9473,0,5.13316071,31_27,29_22,-1,Corridor not evaluated
+9479,0,30.40961385,51_19,46_27,-1,Corridor not evaluated
+9482,2,8.777898926,30_27,30_27,2,Clustered - not flagged
+9484,0,6.758096185,28_25,31_32,-1,Corridor not evaluated
+9506,0,5.993860883,34_35,36_34,-1,Corridor not evaluated
+9509,0,5.447533823,31_31,30_30,2,Clustered - not flagged
+9569,2,7.796652869,31_30,31_31,2,Clustered - not flagged
+9571,2,5.090141133,31_30,33_31,2,Clustered - not flagged
+9578,2,4.565816334,39_26,56_28,-1,Corridor not evaluated
+9583,0,6.241987908,30_27,34_36,-1,Corridor not evaluated
+9630,2,4.441741535,31_29,38_31,0,Clustered - not flagged
+9661,0,6.125171217,30_29,31_28,2,Clustered - not flagged
+9681,2,7.11177083,33_30,31_26,-1,Corridor not evaluated
+9690,0,4.364558446,29_29,31_32,0,Clustered - not flagged
+9706,2,4.106623439,35_35,42_31,-1,Corridor not evaluated
+9741,0,4.895379706,32_29,30_27,0,Clustered - not flagged
+9778,2,5.383940797,31_27,31_27,2,Clustered - not flagged
+9779,0,35.96331441,52_19,35_25,-1,Corridor not evaluated
+9806,2,4.094847197,38_30,39_32,-1,Corridor not evaluated
+9816,0,7.211277325,31_31,30_30,2,Clustered - not flagged
+9848,0,10.14434157,35_23,39_24,-1,Corridor not evaluated
+9872,0,10.08615973,31_30,31_29,2,Clustered - not flagged
+9888,0,6.516406185,29_30,31_31,1,Candidate ghost corridor
+9915,0,7.023312872,34_31,36_35,-1,Corridor not evaluated
+9952,0,7.711254716,31_32,35_38,-1,Corridor not evaluated
+9964,0,10.50400572,30_28,30_26,0,Clustered - not flagged
+9994,0,6.531076041,30_27,31_27,2,Clustered - not flagged
+10001,2,4.628019307,31_30,31_30,2,Clustered - not flagged
+10002,0,12.82647358,30_30,33_30,0,Clustered - not flagged
+10004,0,7.99021898,29_27,34_21,-1,Corridor not evaluated
+10037,2,6.377049165,29_28,38_31,-1,Corridor not evaluated
+10089,0,8.028261174,29_28,29_26,0,Clustered - not flagged
+10092,2,6.24125377,31_30,37_31,-1,Corridor not evaluated
+10113,2,7.639101746,32_33,31_32,1,Clustered - not flagged
+10114,0,11.25562918,31_31,30_30,2,Clustered - not flagged
+10142,0,7.236712925,30_28,30_30,0,Clustered - not flagged
+10146,0,15.44379427,43_32,29_28,-1,Corridor not evaluated
+10150,0,16.93553675,42_32,32_30,4,Candidate ghost corridor
+10186,0,4.862474481,33_30,35_34,-1,Corridor not evaluated
+10193,2,4.466817781,31_28,29_28,2,Clustered - not flagged
+10227,0,8.19177561,29_31,30_28,-1,Corridor not evaluated
+10249,2,3.558498299,30_26,32_32,-1,Corridor not evaluated
+10253,2,4.417490614,31_32,29_26,-1,Corridor not evaluated
+10265,2,5.3036127,29_27,28_25,1,Clustered - not flagged
+10301,2,2.97507016,31_29,31_28,2,Clustered - not flagged
+10304,2,7.0797991,29_28,30_27,2,Clustered - not flagged
+10307,2,5.377996957,32_31,34_33,1,Clustered - not flagged
+10316,0,5.320383488,33_31,33_24,-1,Corridor not evaluated
+10331,0,5.322434141,30_29,32_30,2,Clustered - not flagged
+10371,2,4.781758484,31_28,30_30,2,Clustered - not flagged
+10384,0,6.55959815,30_27,30_28,2,Clustered - not flagged
+10387,2,4.031838745,31_28,31_27,2,Clustered - not flagged
+10424,2,4.228610126,30_27,29_26,0,Clustered - not flagged
+10463,1,3.994103677,31_30,30_30,2,Clustered - not flagged
+10478,2,4.497978094,32_30,34_32,2,Clustered - not flagged
+10489,1,3.979859091,30_30,31_33,-1,Corridor not evaluated
+10508,0,19.28515857,42_32,31_29,4,Clustered - not flagged
+10520,2,4.364389668,34_33,33_30,-1,Corridor not evaluated
+10523,0,4.64031209,32_30,30_27,0,Clustered - not flagged
+10575,1,4.97490952,32_31,34_33,1,Clustered - not flagged
+10591,2,4.289736944,34_33,32_33,1,Clustered - not flagged
+10612,2,9.061263277,34_33,36_35,1,Clustered - not flagged
+10688,2,7.977986674,31_31,31_23,-1,Corridor not evaluated
+10716,2,4.550661336,31_27,36_24,-1,Corridor not evaluated
+10719,2,8.720725528,32_31,31_30,2,Clustered - not flagged
+10740,2,4.675458077,31_27,32_27,0,Clustered - not flagged
+10774,2,8.282738111,30_29,31_27,0,Clustered - not flagged
+10813,0,8.211038232,28_25,33_31,-1,Corridor not evaluated
+10815,0,4.7995426,32_30,34_32,2,Clustered - not flagged
+10837,2,4.844524155,32_30,12_24,-1,Corridor not evaluated
+10862,2,3.443693179,29_28,29_28,2,Clustered - not flagged
+10897,2,3.525022201,31_31,32_30,2,Candidate ghost corridor
+10917,2,4.821456988,32_30,32_33,0,Clustered - not flagged
+10923,2,5.741018829,32_30,31_28,2,Clustered - not flagged
+10929,0,6.53267318,30_29,33_32,-1,Corridor not evaluated
+10942,2,3.725085455,32_34,34_33,1,Clustered - not flagged
+10952,2,3.836414764,30_30,42_29,-1,Corridor not evaluated
+10968,2,3.525794369,30_29,29_30,0,Clustered - not flagged
+10994,2,4.862619883,30_30,33_34,0,Clustered - not flagged
+10998,0,5.28060115,30_31,30_30,1,Clustered - not flagged
+11002,0,6.930815641,35_37,39_38,-1,Corridor not evaluated
+11046,0,11.9406474,42_32,37_32,-1,Corridor not evaluated
+11048,1,4.42688399,31_32,34_32,1,Clustered - not flagged
+11061,1,4.674365672,33_32,31_31,4,Clustered - not flagged
+11070,2,4.674365672,33_32,34_31,1,Clustered - not flagged
+11141,2,4.493541124,32_30,28_25,0,Clustered - not flagged
+11199,2,5.105086943,30_30,30_30,2,Clustered - not flagged
+11217,2,3.726937282,33_34,33_34,1,Clustered - not flagged
+11225,2,6.191594566,30_28,30_29,2,Clustered - not flagged
+11233,2,5.302593003,32_30,32_28,0,Clustered - not flagged
+11314,2,4.996017982,30_30,30_29,2,Clustered - not flagged
+11321,0,28.47131039,51_19,32_29,3,Clustered - not flagged
+11349,2,7.109076797,32_34,35_34,-1,Corridor not evaluated
+11384,1,4.723029378,30_30,32_29,2,Clustered - not flagged
+11419,2,3.701491057,30_29,29_28,2,Clustered - not flagged
+11428,0,3.800881961,31_30,31_31,2,Clustered - not flagged
+11523,2,4.641836105,31_29,31_28,2,Clustered - not flagged
+11590,2,5.992358096,29_27,33_32,-1,Corridor not evaluated
+11601,2,5.208550785,31_30,31_28,0,Clustered - not flagged
+11602,2,5.264848126,31_29,34_26,0,Clustered - not flagged
+11604,2,5.235331262,31_31,31_29,2,Clustered - not flagged
+11638,0,8.312109994,32_31,30_26,-1,Corridor not evaluated
+11709,2,6.43165233,29_27,29_26,1,Clustered - not flagged
+11782,0,21.87027217,50_20,50_20,1,Candidate ghost corridor
+11802,2,5.791901628,30_30,29_28,2,Clustered - not flagged
+11828,0,5.583458007,29_26,32_29,-1,Corridor not evaluated
+11864,0,6.059454545,30_30,29_30,0,Clustered - not flagged
+11876,2,3.500197151,31_29,31_32,0,Clustered - not flagged
+11910,2,9.511719815,30_31,32_34,1,Clustered - not flagged
+11916,0,9.390044787,30_30,29_30,0,Clustered - not flagged
+11921,2,7.326297553,32_30,30_29,2,Clustered - not flagged
+11923,0,5.375667316,33_30,30_31,0,Clustered - not flagged
+11946,1,5.493739903,34_32,32_29,2,Clustered - not flagged
+12027,2,3.900928268,30_30,29_27,0,Clustered - not flagged
+12030,0,4.788270835,31_30,34_32,0,Clustered - not flagged
+12033,0,4.720088875,35_32,33_30,1,Clustered - not flagged
+12049,2,7.55422682,30_29,30_28,2,Clustered - not flagged
+12053,2,4.072510946,30_30,35_36,-1,Corridor not evaluated
+12096,0,16.12486721,42_32,33_24,-1,Corridor not evaluated
+12107,2,4.945172648,30_31,28_26,4,Clustered - not flagged
+12120,0,4.832614035,31_31,31_30,2,Clustered - not flagged
+12121,2,5.23482495,28_26,32_30,4,Clustered - not flagged
+12150,2,4.344329251,30_27,29_29,0,Clustered - not flagged
+12181,0,4.504643413,31_30,28_27,-1,Corridor not evaluated
+12191,0,4.6236124,32_30,33_31,2,Clustered - not flagged
+12200,2,4.154951913,31_31,31_27,0,Clustered - not flagged
+12211,1,4.360788966,32_31,32_28,-1,Corridor not evaluated
+12227,0,5.732735549,32_29,51_19,-1,Corridor not evaluated
+12241,0,5.598577362,32_32,30_30,-1,Corridor not evaluated
+12245,0,25.26419481,51_19,34_14,-1,Corridor not evaluated
+12276,2,4.09582578,31_29,34_32,0,Clustered - not flagged
+12280,2,5.902324672,30_27,29_27,1,Clustered - not flagged
+12290,2,7.65653256,34_33,34_32,2,Clustered - not flagged
+12293,0,3.82585403,33_31,33_34,0,Clustered - not flagged
+12310,2,4.115274265,32_30,34_33,2,Clustered - not flagged
+12347,2,6.858153368,35_36,36_35,-1,Corridor not evaluated
+12353,0,7.590386031,28_26,29_26,1,Clustered - not flagged
+12374,2,5.147232076,32_31,32_30,2,Clustered - not flagged
+12386,2,8.56145648,31_27,31_27,2,Clustered - not flagged
+12445,0,8.094535377,33_31,32_29,2,Clustered - not flagged
+12465,2,5.130655741,32_31,32_30,2,Clustered - not flagged
+12498,2,3.705986273,34_31,44_28,-1,Corridor not evaluated
+12507,0,4.168827342,32_30,33_31,2,Clustered - not flagged
+12563,2,5.520236794,32_29,31_28,2,Clustered - not flagged
+12566,2,3.853433213,33_34,32_33,1,Clustered - not flagged
+12570,2,7.8035172,31_29,30_28,2,Clustered - not flagged
+12649,2,6.393777781,31_27,29_28,2,Clustered - not flagged
+12651,1,4.628613222,31_32,30_30,1,Clustered - not flagged
+12654,0,5.41548569,32_29,31_28,2,Clustered - not flagged
+12660,2,4.706808566,32_30,33_30,2,Clustered - not flagged
+12713,2,7.889335988,32_32,32_31,4,Clustered - not flagged
+12729,2,5.320162986,34_35,35_37,-1,Corridor not evaluated
+12824,0,5.731807028,30_30,30_28,0,Clustered - not flagged
+12837,1,4.57697932,32_30,31_29,2,Clustered - not flagged
+12839,2,4.609941301,32_32,31_28,-1,Corridor not evaluated
+12866,0,5.279869355,31_24,30_24,-1,Corridor not evaluated
+12868,2,4.039873379,34_32,32_31,2,Clustered - not flagged
+12878,2,4.13478014,30_30,47_25,-1,Corridor not evaluated
+12895,2,3.149894791,31_33,32_33,1,Clustered - not flagged
+12924,2,9.969827415,32_28,29_28,-1,Corridor not evaluated
+12947,2,3.916421144,32_29,30_27,0,Clustered - not flagged
+12981,0,6.972240396,29_25,31_23,-1,Corridor not evaluated
+13021,0,17.58025923,43_31,34_31,-1,Corridor not evaluated
+13028,2,4.033871093,32_27,30_30,-1,Corridor not evaluated
+13065,2,3.95415879,31_29,29_28,2,Clustered - not flagged
+13083,0,6.318077403,29_27,31_32,-1,Corridor not evaluated
+13136,0,7.240746912,33_30,37_31,-1,Corridor not evaluated
+13147,2,4.720713292,32_30,32_29,2,Clustered - not flagged
+13203,2,3.952882232,31_28,31_29,2,Clustered - not flagged
+13222,2,3.912306972,31_30,30_28,0,Clustered - not flagged
+13279,0,5.904938521,29_25,32_29,-1,Corridor not evaluated
+13283,1,8.648602757,31_27,31_29,2,Clustered - not flagged
+13285,1,3.878960534,32_30,32_30,2,Clustered - not flagged
+13364,2,3.145743644,31_28,29_30,0,Clustered - not flagged
+13374,0,4.52074757,32_30,30_25,-1,Corridor not evaluated
+13432,0,5.44564941,28_26,28_25,1,Clustered - not flagged
+13459,2,4.454166093,30_26,31_28,1,Clustered - not flagged
+13481,0,15.41665282,42_32,32_21,-1,Corridor not evaluated
+13536,2,4.82459874,30_28,30_27,2,Clustered - not flagged
+13537,1,5.095851752,32_30,29_31,-1,Corridor not evaluated
+13545,0,4.965251027,32_30,30_26,0,Candidate ghost corridor
+13581,2,3.653885682,32_30,32_29,2,Clustered - not flagged
+13584,2,4.459154274,32_30,29_27,0,Clustered - not flagged
+13602,0,13.61617823,43_31,29_26,-1,Corridor not evaluated
+13606,0,9.805620422,31_26,30_27,1,Clustered - not flagged
+13607,2,3.401024147,31_29,30_27,0,Clustered - not flagged
+13641,0,6.740947431,31_33,30_27,-1,Corridor not evaluated
+13662,0,4.480120275,31_28,32_27,0,Clustered - not flagged
+13672,0,5.350090624,31_28,34_31,0,Clustered - not flagged
+13693,2,4.176912851,34_33,33_32,1,Clustered - not flagged
+13707,2,5.69780639,29_26,30_26,1,Clustered - not flagged
+13708,2,6.066190612,29_28,35_30,-1,Corridor not evaluated
+13745,0,21.77392421,52_19,30_30,-1,Corridor not evaluated
+13770,2,6.431177651,30_29,31_27,0,Clustered - not flagged
+13771,0,15.60165628,43_31,44_35,-1,Corridor not evaluated
+13772,2,3.95320972,30_27,31_28,2,Clustered - not flagged
+13792,2,4.556516495,29_28,31_28,2,Clustered - not flagged
+13832,0,5.643234897,30_31,32_32,-1,Corridor not evaluated
+13840,2,3.900964995,31_29,33_31,2,Clustered - not flagged
+13866,0,14.70376329,42_32,31_27,-1,Corridor not evaluated
+13945,0,5.745365856,28_26,29_28,1,Clustered - not flagged
+13949,2,4.588950507,31_28,31_29,2,Clustered - not flagged
+13971,2,3.500428965,30_27,29_26,0,Clustered - not flagged
+13999,2,5.449606067,31_30,34_35,0,Clustered - not flagged
+14041,2,7.779469728,30_30,31_28,2,Clustered - not flagged
+14074,2,5.336040573,31_30,32_30,2,Candidate ghost corridor
+14076,2,4.243701529,29_30,29_26,-1,Corridor not evaluated
+14160,2,6.239803339,29_27,30_23,-1,Corridor not evaluated
+14168,0,8.601300333,30_30,31_29,2,Clustered - not flagged
+14208,0,6.462215104,33_33,31_33,-1,Corridor not evaluated
+14210,2,8.66206113,31_29,30_28,2,Clustered - not flagged
+14214,0,7.05982174,28_25,31_28,4,Clustered - not flagged
+14217,1,5.74345294,32_31,32_30,2,Clustered - not flagged
+14305,0,5.238443561,32_30,30_29,2,Clustered - not flagged
+14363,2,7.067864862,29_29,30_29,2,Clustered - not flagged
+14402,2,4.989099241,31_30,31_29,2,Clustered - not flagged
+14407,0,4.662458979,32_30,32_33,0,Clustered - not flagged
+14419,2,4.599474182,31_30,31_31,2,Clustered - not flagged
+14466,2,3.961398539,31_28,31_27,2,Clustered - not flagged
+14589,0,6.336295521,32_33,30_29,4,Clustered - not flagged
+14590,0,12.89720874,42_32,41_23,-1,Corridor not evaluated
+14643,2,6.063641591,31_30,33_30,0,Clustered - not flagged
+14679,2,8.207494065,33_31,30_28,0,Clustered - not flagged
+14680,2,3.496657533,31_29,32_31,2,Clustered - not flagged
+14707,2,4.305365656,33_35,32_34,1,Clustered - not flagged
+14725,2,4.334606014,33_32,30_30,4,Clustered - not flagged
+14750,0,27.81381711,51_19,39_32,-1,Corridor not evaluated
+14801,0,6.133447756,33_30,31_26,-1,Corridor not evaluated
+14809,2,6.917765824,33_32,32_34,-1,Corridor not evaluated
+14826,2,4.307218672,31_30,30_30,2,Clustered - not flagged
+14835,0,4.70980412,33_30,34_31,2,Clustered - not flagged
+14840,2,10.24847537,31_29,30_27,0,Clustered - not flagged
+14856,2,4.197433845,29_28,34_32,0,Candidate ghost corridor
+14879,1,9.940003351,30_31,30_30,1,Clustered - not flagged
+14945,0,4.539517797,34_32,35_32,2,Clustered - not flagged
+14965,2,5.397481612,29_29,38_42,-1,Corridor not evaluated
+14985,0,8.573851652,29_26,29_27,1,Clustered - not flagged
+14989,2,3.102052965,31_31,30_30,2,Clustered - not flagged
+14997,2,4.954877961,29_27,30_30,4,Clustered - not flagged
+15016,0,7.641018971,29_26,30_30,4,Clustered - not flagged
+15019,0,5.728065373,31_28,32_27,0,Clustered - not flagged
+15042,0,5.782102739,33_20,36_24,-1,Corridor not evaluated
+15055,2,6.583796994,29_29,32_33,0,Clustered - not flagged
+15079,0,14.8055255,42_32,29_26,3,Clustered - not flagged
+15085,0,7.504062857,31_27,31_28,2,Clustered - not flagged
+15091,2,5.824483081,33_31,36_34,0,Clustered - not flagged
+15146,2,4.567136466,30_27,30_26,0,Clustered - not flagged
+15159,0,15.7790815,42_32,37_31,-1,Corridor not evaluated
+15163,0,6.162684942,31_28,32_27,0,Clustered - not flagged
+15166,0,12.90438679,31_27,29_28,2,Clustered - not flagged
+15208,1,11.43358793,32_33,32_30,4,Clustered - not flagged
+15233,2,9.464142628,29_28,31_30,2,Clustered - not flagged
+15245,2,7.436373756,34_31,33_31,2,Clustered - not flagged
+15333,1,5.036214947,30_29,29_27,0,Clustered - not flagged
+15351,1,5.903508316,32_29,51_19,-1,Corridor not evaluated
+15374,2,6.133663495,30_29,32_28,1,Candidate ghost corridor
+15414,2,4.115477839,31_30,32_31,2,Clustered - not flagged
+15418,2,7.174758111,32_33,31_31,4,Clustered - not flagged
+15432,1,10.17621712,36_39,31_28,-1,Corridor not evaluated
+15557,2,4.449914157,31_31,31_32,2,Clustered - not flagged
+15573,2,12.33511188,32_33,28_26,4,Clustered - not flagged
+15577,2,5.440963732,32_31,28_26,4,Clustered - not flagged
+15592,1,7.323783289,30_29,31_30,2,Clustered - not flagged
+15615,2,14.87903076,29_28,32_31,4,Clustered - not flagged
+15707,2,5.818977771,31_31,32_30,2,Candidate ghost corridor
+15726,2,6.155300409,30_30,30_30,2,Clustered - not flagged
+15744,2,5.324745227,31_29,31_31,2,Clustered - not flagged
+15756,1,8.985695976,36_24,31_21,-1,Corridor not evaluated
+15764,1,27.77783408,51_19,47_27,-1,Corridor not evaluated
+15775,2,4.86964738,31_28,28_26,4,Clustered - not flagged
+15832,2,7.07100361,34_31,34_33,1,Clustered - not flagged
+15920,2,5.431754264,30_30,32_31,2,Clustered - not flagged
+15926,2,9.324143661,32_29,32_30,2,Candidate ghost corridor
+15929,2,5.248101655,33_31,34_32,2,Clustered - not flagged
+15949,2,6.188233622,33_31,32_31,2,Clustered - not flagged
+16007,2,5.777126421,31_29,28_26,0,Candidate ghost corridor
+16120,1,9.743581325,34_33,33_30,-1,Corridor not evaluated
+16128,2,5.385881214,30_29,29_30,0,Clustered - not flagged
+16146,1,7.38834489,30_32,31_31,-1,Corridor not evaluated
+16170,1,12.47895896,28_25,29_26,1,Clustered - not flagged
+16184,2,5.045254328,30_29,31_30,2,Clustered - not flagged
+16195,2,4.737856893,33_32,34_31,1,Clustered - not flagged
+16209,2,7.522930544,34_33,33_31,4,Clustered - not flagged
+16211,1,9.997791032,29_28,28_27,0,Clustered - not flagged
+16239,1,28.7174745,51_19,28_25,3,Clustered - not flagged
+16247,1,6.199590154,32_34,36_34,-1,Corridor not evaluated
+16259,2,7.995559411,35_33,32_30,4,Clustered - not flagged
+16322,2,6.405229809,31_31,33_31,2,Clustered - not flagged
+16328,1,8.484694261,32_30,30_29,2,Clustered - not flagged
+16355,2,5.478254096,33_31,32_30,2,Candidate ghost corridor
+16366,1,6.582217529,31_28,29_27,0,Clustered - not flagged
+16431,2,8.370109754,34_33,36_39,-1,Corridor not evaluated
+16446,2,5.145271578,32_30,29_25,0,Candidate ghost corridor
+16449,1,9.780899292,32_28,34_31,1,Clustered - not flagged
+16467,2,7.352588212,33_35,31_32,1,Clustered - not flagged
+16483,1,11.06811405,34_32,32_31,2,Clustered - not flagged
+16503,2,7.606970744,35_32,31_30,4,Clustered - not flagged
+16559,1,5.735419306,32_29,31_29,2,Clustered - not flagged
+16592,2,8.985186064,34_33,31_31,4,Clustered - not flagged
+16594,1,6.180664775,32_29,32_30,2,Candidate ghost corridor
+16618,2,6.912502578,34_32,31_30,4,Clustered - not flagged
+16630,2,6.594978982,31_30,43_32,3,Clustered - not flagged
+16650,1,10.90978485,28_26,31_31,4,Clustered - not flagged
+16701,2,4.995635198,31_29,31_30,2,Clustered - not flagged
+16783,2,9.772109738,34_29,35_32,-1,Corridor not evaluated
+16784,1,7.778278065,34_33,34_35,-1,Corridor not evaluated
+16831,1,8.766245269,29_25,33_30,1,Clustered - not flagged
+16851,2,4.787010306,31_29,29_27,0,Clustered - not flagged
+16861,2,6.388533709,29_29,31_27,0,Clustered - not flagged
+16889,2,6.336791795,33_30,34_33,4,Clustered - not flagged
+16931,2,7.899286512,30_29,32_31,2,Clustered - not flagged
+16970,1,7.783953238,33_34,32_30,-1,Corridor not evaluated
+16975,2,6.331248885,32_30,35_33,0,Clustered - not flagged
+16985,1,30.76129753,51_19,39_45,-1,Corridor not evaluated
+17000,1,7.351734639,30_27,31_27,2,Clustered - not flagged
+17015,2,10.27850208,31_30,42_32,3,Clustered - not flagged
+17016,2,7.213426087,34_32,32_33,2,Clustered - not flagged
+17042,1,8.26016471,35_32,33_31,4,Clustered - not flagged
+17063,1,8.387402729,31_24,32_23,-1,Corridor not evaluated
+17067,2,9.400077057,31_30,32_31,2,Clustered - not flagged
+17107,2,7.446153219,34_32,32_33,2,Clustered - not flagged
+17128,2,4.284995165,32_30,33_31,2,Clustered - not flagged
+17159,1,6.210592817,33_34,31_30,4,Clustered - not flagged
+17185,1,8.072454869,33_31,34_31,2,Clustered - not flagged
+17191,2,7.099564896,30_31,32_30,4,Clustered - not flagged
+17216,2,4.066933839,33_32,34_32,1,Clustered - not flagged
+17254,1,6.012054617,33_32,31_32,1,Clustered - not flagged
+17273,1,9.194530244,31_31,32_31,2,Clustered - not flagged
+17288,2,9.773454083,31_29,31_30,2,Clustered - not flagged
+17345,2,10.48619413,34_33,34_32,2,Clustered - not flagged
+17348,1,6.025469069,32_33,32_34,1,Clustered - not flagged
+17427,2,6.055625085,35_33,36_35,-1,Corridor not evaluated
+17466,2,11.44196862,31_32,30_31,1,Clustered - not flagged
+17467,1,6.558263423,32_31,30_28,0,Clustered - not flagged
+17486,2,7.141781579,31_33,12_24,-1,Corridor not evaluated
+17505,2,9.734472129,33_30,34_32,2,Clustered - not flagged
+17514,2,6.464676266,31_32,32_30,4,Clustered - not flagged
+17516,1,7.403681917,32_30,29_25,0,Candidate ghost corridor
+17534,2,4.829836086,32_29,34_31,4,Clustered - not flagged
+17580,2,7.817325174,30_30,31_26,-1,Corridor not evaluated
+17613,2,6.202425932,30_28,30_30,0,Clustered - not flagged
+17641,2,4.246885025,33_30,32_30,2,Candidate ghost corridor
+17682,2,9.111201572,34_31,32_26,-1,Corridor not evaluated
+17693,2,6.583252602,33_30,32_30,2,Candidate ghost corridor
+17757,2,8.42825456,32_30,30_30,2,Clustered - not flagged
+17771,2,5.396722651,30_30,31_30,2,Clustered - not flagged
+17824,2,6.09698074,32_29,29_26,0,Clustered - not flagged
+17856,2,14.81467438,29_28,32_30,4,Clustered - not flagged
+17864,2,4.962308219,30_30,33_36,-1,Corridor not evaluated
+17935,2,11.47364392,37_32,35_30,-1,Corridor not evaluated
+17949,2,10.89849145,34_35,32_33,1,Candidate ghost corridor
+17969,1,6.739352281,30_27,29_27,1,Clustered - not flagged
+18002,1,8.079310065,30_29,32_31,2,Clustered - not flagged
+18014,1,12.03526726,34_33,31_30,4,Clustered - not flagged
+18031,1,9.277867121,34_35,29_26,-1,Corridor not evaluated
+18058,2,8.413672835,28_25,28_27,-1,Corridor not evaluated
+18070,2,4.88246881,30_28,31_29,2,Clustered - not flagged
+18113,2,6.387435836,31_33,32_33,1,Clustered - not flagged
+18125,2,6.356771551,33_32,34_33,1,Clustered - not flagged
+18249,1,7.409978862,34_33,34_32,2,Clustered - not flagged
+18308,1,11.04921655,29_27,32_30,4,Clustered - not flagged
+18328,2,8.637596306,31_27,31_28,2,Clustered - not flagged
+18363,1,8.060319536,34_32,32_28,0,Clustered - not flagged
+18366,1,7.043217033,34_35,28_25,-1,Corridor not evaluated
+18378,2,4.795569035,33_31,32_33,0,Clustered - not flagged
+18417,2,7.662777732,32_30,31_31,2,Clustered - not flagged
+18421,1,7.683601078,31_32,31_29,4,Clustered - not flagged
+18482,2,5.946957829,31_31,32_31,2,Clustered - not flagged
+18494,1,8.877113972,35_32,34_33,1,Clustered - not flagged
+18561,1,9.435559329,30_27,30_30,0,Clustered - not flagged
+18567,2,4.866282646,31_29,33_31,2,Clustered - not flagged
+18570,1,9.175076482,28_26,43_31,-1,Corridor not evaluated
+18583,1,13.26667277,35_33,33_30,4,Clustered - not flagged
+18597,2,5.86945271,35_32,32_30,4,Clustered - not flagged
+18605,2,9.627498411,31_29,32_30,2,Candidate ghost corridor
+18606,1,6.815943757,35_32,31_27,-1,Corridor not evaluated
+18640,2,7.229114203,32_33,31_32,1,Clustered - not flagged
+18644,1,6.800594912,31_33,38_40,-1,Corridor not evaluated
+18666,1,7.314571045,35_32,32_30,4,Clustered - not flagged
+18680,2,9.026449389,30_30,31_31,2,Clustered - not flagged
+18701,2,5.202640657,30_30,31_28,2,Clustered - not flagged
+18704,2,7.924506222,32_32,31_29,-1,Corridor not evaluated
+18719,2,10.14395932,34_36,31_31,-1,Corridor not evaluated
+18720,2,5.998339397,31_30,32_31,2,Clustered - not flagged
+18749,2,4.448003518,32_30,34_33,2,Clustered - not flagged
+18810,2,8.84572029,29_22,34_31,-1,Corridor not evaluated
+18825,2,7.188247206,34_32,32_30,2,Candidate ghost corridor
+18845,2,5.611634897,33_34,33_34,1,Clustered - not flagged
+18876,1,9.22212087,34_35,32_33,1,Candidate ghost corridor
+18896,2,4.77455587,30_29,30_28,2,Clustered - not flagged
+18913,1,6.205410309,32_28,31_29,1,Clustered - not flagged
+18935,1,28.49712016,51_19,41_22,-1,Corridor not evaluated
+18982,2,7.46237478,34_31,31_30,4,Clustered - not flagged
+19004,2,9.654889541,35_34,34_33,-1,Corridor not evaluated
+19005,2,5.304892616,32_30,35_30,-1,Corridor not evaluated
+19089,2,7.826748255,34_33,33_33,-1,Corridor not evaluated
+19142,1,7.936878041,30_27,51_19,-1,Corridor not evaluated
+19198,2,6.531391436,35_34,35_35,-1,Corridor not evaluated
+19203,2,11.15488089,33_32,32_30,4,Candidate ghost corridor
+19230,1,11.22324454,28_25,32_30,4,Candidate ghost corridor
+19261,2,6.128670289,32_31,32_31,1,Clustered - not flagged
+19276,2,10.60949605,33_31,32_30,2,Candidate ghost corridor
+19300,2,6.609043338,33_32,32_31,4,Clustered - not flagged
+19303,2,7.714133367,33_35,32_32,-1,Corridor not evaluated
+19333,1,6.107288029,35_32,31_33,-1,Corridor not evaluated
+19353,2,4.722387999,32_29,32_34,-1,Corridor not evaluated
+19396,2,5.837113734,31_30,51_19,-1,Corridor not evaluated
+19402,2,6.159966797,31_32,31_30,4,Clustered - not flagged
+19403,2,7.123824507,30_29,32_31,2,Clustered - not flagged
+19407,2,5.175479442,33_30,34_32,2,Clustered - not flagged
+19423,2,7.472253511,31_29,30_29,2,Clustered - not flagged
+19457,2,9.883950228,34_31,32_31,4,Clustered - not flagged
+19470,1,7.268586156,35_32,29_25,-1,Corridor not evaluated
+19483,2,11.43045367,31_32,33_31,1,Clustered - not flagged
+19522,2,6.854012374,35_33,32_31,4,Clustered - not flagged
+19525,2,4.991068034,31_30,31_30,2,Clustered - not flagged
+19537,1,8.323216726,34_25,31_23,-1,Corridor not evaluated
+19583,2,5.573835872,31_28,34_31,0,Clustered - not flagged
+19643,1,11.84357301,29_25,28_27,-1,Corridor not evaluated
+19650,2,10.90332139,31_31,31_30,2,Clustered - not flagged
+19678,2,9.37945172,33_33,34_33,1,Clustered - not flagged
+19795,1,9.521375437,28_26,29_27,1,Clustered - not flagged
+19812,1,14.19668361,30_27,42_32,-1,Corridor not evaluated
+19822,1,6.287035943,32_32,32_34,1,Clustered - not flagged
+19840,2,7.893244088,35_32,36_35,-1,Corridor not evaluated
+19856,1,12.66770785,32_34,32_33,1,Clustered - not flagged
+19882,2,7.757548243,31_29,31_30,2,Clustered - not flagged
+19898,2,8.831507948,31_28,29_27,0,Clustered - not flagged
+19936,1,6.895279142,31_28,32_30,2,Candidate ghost corridor
+19962,2,8.1713699,31_32,31_31,2,Clustered - not flagged
